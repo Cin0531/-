@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+  <title>拾荒者</title>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- HTML5 shim 和 Respond.js 是为了让 IE8 支持 HTML5 元素和媒体查询（media queries）功能 -->
+  <!-- 警告：通过 file:// 协议（就是直接将 html 页面拖拽到浏览器中）访问页面时 Respond.js 不起作用 -->
+  <!--[if lt IE 9]>
+      <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+    <![endif]-->
+
+  <style>
+    h1 {
+      text-align: center;
+    }
+
+    p {
+      text-align: center;
+    }
+
+  
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+
+    .header {
+      float: right;
+    }
+  
+  
+
+    p.thicker {font-weight:900;}
+  </style>
+
+
+
+</head>
+
+<body>
+
+  
+
+    
+      
+        <div class="container">
+            <li class="btn btn-default navbar-btn">
+                <a class="btn btn-default" href="cin1.html">首页</a>
+              </li>
+            <li class="btn btn-default navbar-btn">
+                <a class="btn btn-default" href="cin2.html">一些想留住的</a>
+              </li>
+              <li class="btn btn-default navbar-btn">
+                  <a class="btn btn-default" href="cin3.html">一些甩不掉的</a>
+                </li>
+                <li class="btn btn-default navbar-btn">
+                    <a class="btn btn-default" href="cin4.html">一些老故事</a>
+                  </li>
+      
+        </div>
+       
+      
+   
+ 
+
+
+
+  <div class="jumbotron">
+      
+   
+    <header class="masthead" style="background-image: url('1.jpeg')">
+    <div class="container">
+      <h1> //一些生活碎片//</h1>
+      <p class="thicker">
+        "你会在可爱星球上遇到一些人,也会在动物世界里遇到一些人。"
+      </p>
+
+      
+      <center>
+        <p>
+          <li>
+              <a class="btn btn-primary btn-lg" href="cin5.html" role="button">点击收获快乐</a>
+          </li>
+        </p>
+      </center>
+       
+
+
+    </div>
+  </div>
+</header>
+
+
+
+  <div class="page-header">
+    <h1>"WALK YOUR OWN PATH. <small> BELIEVE YOURSELF."</small></h1>
+    <img src="4.jpg" alt="" width="750" height="1000">
+  </div>
+
+  <div class="page-header">
+    <h1>"BREATHE. IT'S ONLY A BAD DAY <small> NOT A BAD LIFE."</small></h1>
+    <img src="3.jpg" alt="" width="750" height="1000">
+  </div>
+
+  <div class="page-header">
+    <h1>"ONE DAY, WE WILL NEVER HAVE TO SAY GOODBYE <small> ONLY GOODNIGHT."</small></h1>
+    <img src="2.jpg" alt="" width="750" height="1000">
+  </div>
+
+  <footer class="bs-docs-footer">
+    <div class="container">
+        <p class="thicker">
+            -The end-
+        </p>
+        <p>Thanks for wathing. </p>
+  
+      <p class="thicker">我的网页设计//2019//</p>
+  
+    </div>
+  </footer>
+
+
+
+  <!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+  <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+  <title>一些想留住的</title>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- HTML5 shim 和 Respond.js 是为了让 IE8 支持 HTML5 元素和媒体查询（media queries）功能 -->
+  <!-- 警告：通过 file:// 协议（就是直接将 html 页面拖拽到浏览器中）访问页面时 Respond.js 不起作用 -->
+  <!--[if lt IE 9]>
+      <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+    <![endif]-->
+
+  <style>
+    h1 {
+      text-align: center;
+    }
+
+    p {
+      text-align: center;
+    }
+
+    p.italic {
+        font-style:italic;
+        font-size:20px;
+        font-weight:900;
+        }
+
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+
+    .header {
+      float: right;
+    }
+
+    p.thicker {font-weight:900;}
+  </style>
+
+</head>
+
+<body>
+
+        <div class="container">
+                <li class="btn btn-default navbar-btn">
+                        <a class="btn btn-default" href="cin1.html">首页</a>
+                      </li>
+                <li class="btn btn-default navbar-btn">
+                    <a class="btn btn-default" href="cin2.html">一些想留住的</a>
+                  </li>
+                  <li class="btn btn-default navbar-btn">
+                      <a class="btn btn-default" href="cin3.html">一些甩不掉的</a>
+                    </li>
+                    <li class="btn btn-default navbar-btn">
+                        <a class="btn btn-default" href="cin4.html">一些老故事</a>
+                      </li>
+          
+            </div>
+           
+            
+
+
+
+
+  <div class="jumbotron">
+      
+   
+    <header class="masthead" style="background-image: url('9.jpg')">
+    <div class="container">
+      <h1> //一些想留住的//</h1>
+      <p class="thicker">
+        "是你的就跑不掉。"
+      </p>
+      <p class="thicker">
+            /blong to/
+          </p>
+
+    </div>
+  </div>
+</header>
+
+
+
+  <div class="page-header">
+    <h1>"我的心愿是"</h1>
+    <img src="红1.jpg" alt="" width="500" height="450">
+    <div class="container">
+            <div class="row">
+
+    <p class="italic">世界和平
+    </p>
+   
+</div>
+  </div>
+  </div>
+
+  <div class="page-header">
+    <h1>"健康的身体" <small>:革命的本钱</small></h1>
+    <img src="红2.jpg" alt="" width="500" height="450">
+    <div class="container">
+            <div class="row">
+
+    <p class="italic">希望我的家人们都健健康康
+    </p>
+   
+</div>
+  </div>
+
+  </div>
+
+  <div class="page-header">
+    <h1>"我最亲爱的家人们” <small>：我希望他们永远留在我的身边</small></h1>
+    <img src="红3.jpg" alt="" width="500" height="450">
+    <div class="container">
+            <div class="row">
+
+    <p class="italic">永远永远
+    </p>
+   
+</div>
+  </div>
+
+  </div>
+
+  <footer class="bs-docs-footer">
+    <div class="container">
+            <p class="thicker">
+                    -The end-
+                </p>
+            <p>Thanks for wathing. </p>
+  
+      <p class="thicker">我的网页设计//2019//</p>
+  
+    </div>
+  </footer>
+
+
+
+  <!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+  <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+  <title>一些甩不掉的</title>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- HTML5 shim 和 Respond.js 是为了让 IE8 支持 HTML5 元素和媒体查询（media queries）功能 -->
+  <!-- 警告：通过 file:// 协议（就是直接将 html 页面拖拽到浏览器中）访问页面时 Respond.js 不起作用 -->
+  <!--[if lt IE 9]>
+      <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+    <![endif]-->
+
+  <style>
+    h1 {
+      text-align: center;
+    }
+
+    p {
+      text-align: center;
+    }
+   
+    p.italic {
+        font-style:italic;
+        font-size:18px;
+        }
+  
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+
+    .header {
+      float: right;
+    }
+
+    p.thicker {font-weight:900;}
+  </style>
+
+</head>
+
+<body>
+
+        <div class="container">
+                <li class="btn btn-default navbar-btn">
+                        <a class="btn btn-default" href="cin1.html">首页</a>
+                      </li>
+                <li class="btn btn-default navbar-btn">
+                    <a class="btn btn-default" href="cin2.html">一些想留住的</a>
+                  </li>
+                  <li class="btn btn-default navbar-btn">
+                      <a class="btn btn-default" href="cin3.html">一些甩不掉的</a>
+                    </li>
+                    <li class="btn btn-default navbar-btn">
+                        <a class="btn btn-default" href="cin4.html">一些老故事</a>
+                      </li>
+          
+            </div>
+           
+            
+
+
+
+  <div class="jumbotron">
+      
+   
+    <header class="masthead" style="background-image: url('8.jpg')">
+    <div class="container">
+      <h1> //一些甩不掉的//</h1>
+      <p class="thicker">
+        "你想改变什么 却又无可奈何"
+      </p>
+      <p class="thicker">
+        /无奈无奈/
+      </p>
+
+
+    </div>
+  </div>
+</header>
+
+
+
+  <div class="page-header">
+    <h1>"焦虑" <small> 赶快远离</small></h1>
+    <img src="绿1.jpg" alt="" width="500" height="450">
+    <div class="container">
+            <div class="row">
+
+    <p class="italic">这个世界上有很多人，他们会用各种扯淡的规则限制你
+    </p>
+    <p class="italic">就是为了让你不开心，这样他们就会感到开心。
+        </p>
+    <p class="italic"> 你在该笑的时候笑，该哭的时候哭，这样别人才会喜欢你。
+            </p> 
+            <p class="thicker">（So 赶快远离让你焦虑的人）</p>
+     
+</div>
+  </div>
+  </div>
+
+  <div class="page-header">
+    <h1>"怠惰"<small>赶快行动</small></h1>
+    <img src="绿2.jpg" alt="" width="500" height="450">
+    <div class="container">
+            <div class="row">
+
+    <p class="italic">有些时候 你知道有些任务必须完成
+    </p>
+    <p class="italic">可是你还是无动于衷 受不住综艺 游戏 娱乐活动的诱惑
+        </p>
+    <p class="italic"> 一拖再拖 成为晚期拖延症患者
+            </p> 
+            <p class="thicker">（So 制定计划赶快行动起来 能不能行？）</p>
+
+  </div>
+</div>
+</div>
+
+
+
+  <div class="page-header">
+    <h1>"压力" <small> 产生动力</small></h1>
+    <img src="绿3.jpg" alt="" width="500" height="450">
+    <div class="container">
+            <div class="row">
+
+    <p class="italic">每个年龄段有每个年龄段不同的压力
+    </p>
+    <p class="italic">考研 升职 赚钱 养娃 养老...
+        </p>
+    <p class="italic">有压力也不一定是坏事 俗话说“有压力才有动力”
+            </p> 
+            <p class="thicker">（So 没有伞的孩子注定要奔跑）</p>
+
+  </div>
+</div>
+</div>
+
+  <footer class="bs-docs-footer">
+    <div class="container">
+            <p class="thicker">
+                    -The end-
+                </p>
+      <p>Thanks for wathing. </p>
+  
+      <p class="thicker">我的网页设计//2019//</p>
+  
+    </div>
+  </footer>
+
+
+
+  <!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+  <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+  <title>一些老故事</title>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- HTML5 shim 和 Respond.js 是为了让 IE8 支持 HTML5 元素和媒体查询（media queries）功能 -->
+  <!-- 警告：通过 file:// 协议（就是直接将 html 页面拖拽到浏览器中）访问页面时 Respond.js 不起作用 -->
+  <!--[if lt IE 9]>
+      <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+    <![endif]-->
+
+  <style>
+    h1 {
+      text-align: center;
+    }
+
+    p {
+      text-align: center;
+    }
+
+    p.italic {
+        font-style:italic;
+        font-size:18px;
+        }
+
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+
+    .header {
+      float: right;
+    }
+
+    p.thicker {font-weight:900;}
+  </style>
+
+</head>
+
+<body>
+
+        <div class="container">
+                <li class="btn btn-default navbar-btn">
+                        <a class="btn btn-default" href="cin1.html">首页</a>
+                      </li>
+                <li class="btn btn-default navbar-btn">
+                    <a class="btn btn-default" href="cin2.html">一些想留住的</a>
+                  </li>
+                  <li class="btn btn-default navbar-btn">
+                      <a class="btn btn-default" href="cin3.html">一些甩不掉的</a>
+                    </li>
+                    <li class="btn btn-default navbar-btn">
+                        <a class="btn btn-default" href="cin4.html">一些老故事</a>
+                      </li>
+          
+            </div>
+           
+            
+
+
+
+  <div class="jumbotron">
+      
+   
+    <header class="masthead" style="background-image: url('7.jpg')">
+    <div class="container">
+      <h1> //一些老故事//</h1>
+      <p class="thicker">
+        "追忆的人像个拾荒者"
+      </p>
+      <p class="thicker">
+        /那些花儿/
+      </p>
+
+
+    </div>
+  </div>
+</header>
+
+
+
+  <div class="page-header">
+     <h1>"我怀念的"<small>这些旧时光</small></h1>
+    <img src="黄1.jpg" alt="" width="500" height="450">
+    <div class="container">
+            <div class="row">
+
+    <p class="italic">高中时小店的山后有一大片的荒地
+    </p>
+   <p class="italic">但是到了花开的季节 这里却有许多不知名的野花
+   </p>
+   <p class="thicker">这是我对于那时春天独有的记忆
+</p>
+
+</div>
+  </div>
+  </div>
+
+  <div class="page-header">
+    <h1>"我感动的" <small> 一定要幸福啊</small></h1>
+    <img src="黄2.jpg" alt="" width="500" height="450">
+    <div class="container">
+            <div class="row">
+
+    <p class="italic">还记得那次的毕业典礼 语文老师对我们说的话
+    </p>
+   <p class="italic">让我感动 铭记一辈子 她说：
+   </p>
+   <p class="thicker">"我不求你们一定要成功,我希望你们一定要幸福."
+</p>
+
+</div>
+  </div>
+
+  </div>
+
+  <div class="page-header">
+    <h1>"我感谢的" <small> 这些人</small></h1>
+    <img src="黄3.jpg" alt="" width="500" height="450">
+    <div class="container">
+            <div class="row">
+                    <p class="thicker">/高考完那个下午的夕阳 温暖又明媚/
+                        </p>
+                        
+    <p class="italic">感谢我的父母 为我付出太多太多
+    </p>
+   <p class="italic">感谢我的老师 陪我们度过最艰苦的日子
+   </p>
+   <p class="italic">感谢我的朋友 在我成长的路上给予陪伴
+    </p>
+    <p class="italic">最后感谢我自己 没有放弃
+        </p>
+  
+</div>
+  </div>
+  </div>
+
+  <footer class="bs-docs-footer">
+    <div class="container">
+            <p class="thicker">
+                    -The end-
+                </p>
+            <p>Thanks for wathing. </p>
+  
+      <p class="thicker">我的网页设计//2019//</p>
+  
+    </div>
+  </footer>
+
+
+
+  <!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+  <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"> 
+<title>你想要的快乐</title> 
+<style>
+body
+{
+	background-image:url('10.jpg');
+	background-repeat:repeat-x;
+}
+
+h1 {
+    text-align: center;
+    font-size:200px;
+}
+h2 {
+    text-align: center;
+    font-size:40px;
+}
+
+.btn {
+    text-align: center;
+    font-size:26px;
+    font-weight:900;
+}
+</style>
+</head>
+
+<body>
+      
+                <li class="btn">
+                <a class="btn btn-primary btn-lg" href="cin1.html" role="button">点击返回首页⇦</a>
+              </li>
+            
+      
+<h1>Money💴</h1>
+
+<h2>hahahhahahhaha</h2>
+
+
+</body>
+
+</html>
